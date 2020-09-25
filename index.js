@@ -3,7 +3,7 @@ const path = require('path');
 
 const app = express();
 
-const publicDir = 'C:/Sources/public';
+const publicDir = 'path_to_public_folder';
 
 app.use(express.static(publicDir));
 
