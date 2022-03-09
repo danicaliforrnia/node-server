@@ -78,10 +78,6 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-
-<!-- CONTACT -->
-## Contact
-
 [![Linkedin: daniel-stefanelli](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=daniel-stefanelli&logoColor=white)](https://www.linkedin.com/in/daniel-stefanelli/)
 [![Stack Overflow: daniel-stefanelli](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12800059/daniel-stefanelli)
 [![Gmail: daniel.stefanelli.h@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.stefanelli.h@gmail.com)
