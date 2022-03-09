@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-You should have node.js. After node is installed run 
+You should have node.js.
 
 ### Installation
 
